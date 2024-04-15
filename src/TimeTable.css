@@ -1,0 +1,89 @@
+.timetable {
+    max-width: 800px;
+    margin: 0 auto;
+    font-family: Arial, sans-serif;
+  }
+  
+  .header {
+    display: flex;
+    font-weight: bold;
+    margin-bottom: 5px;
+    /* border-bottom: 2px solid #000; */
+  }
+  
+  .row {
+    display: flex;
+    /* border-bottom: 1px solid #ccc; */
+  }
+  
+  .time {
+    flex: 3;
+    padding: 10px;
+    background-color:#B3C8CF;
+    margin-left: 3px;
+    margin-bottom: 3px;
+    margin-top: 5 px;
+    border-radius: 5px;
+    border: 1px solid white;
+  }
+  
+  .monday{
+    flex: 2;
+    padding: 10px;
+    background-color: #EAD8C0;
+    margin-left: 3px;
+    margin-bottom: 3px;
+    margin-top: 5 px;
+    border-radius: 5px;
+    border: 1px solid white;
+  }
+  .tuesday{
+    flex: 2;
+    padding: 10px;
+    background-color:#CCD3CA;
+    margin-left: 3px;
+    margin-bottom: 3px;
+    margin-top: 5 px;
+    border-radius: 5px;
+    border: 1px solid white;
+  }
+  .wednesday{
+    flex: 2;
+    padding: 10px;
+    background-color:#B5C0D0;
+    margin-left: 3px;
+    margin-bottom: 3px;
+    margin-top: 5 px;
+    border-radius: 5px;
+    border: 1px solid white;
+  }
+  .thursday{
+    flex: 2;
+    padding: 10px;
+    background-color:#F7DED0;
+    margin-left: 3px;
+    margin-bottom: 3px;
+    margin-top: 5 px;
+    border-radius: 5px;
+    border: 1px solid white;
+  }
+  .friday {
+    flex: 2;
+    padding: 10px;
+    background-color: #DBDFEA;
+    margin-left: 3px;
+    margin-bottom: 3px;
+    margin-top: 5 px;
+    border-radius: 5px;
+    border: 1px solid white;
+  }
+  .saturday{
+    flex: 2;
+    padding: 10px;
+    background-color: #E4D0D0;
+    margin-left: 3px;
+    margin-bottom: 3px;
+    margin-top: 5 px;
+    border-radius: 5px;
+    border: 1px solid white;
+  }
